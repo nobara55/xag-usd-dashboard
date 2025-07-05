@@ -1,0 +1,14 @@
+# No subir entorno virtual
+xag_env/
+venv/
+env/
+
+# No subir cache Python
+__pycache__/
+*.pyc
+
+# No subir archivos temporales
+*.log
+data/
+exports/
+.DS_Store
